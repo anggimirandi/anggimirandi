@@ -1,4 +1,4 @@
-👋 Halo, saya Anggi Mirandi
+# 👋 Halo, saya Anggi Mirandi
 
 🚀 Saya tertarik di:
 
