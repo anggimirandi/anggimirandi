@@ -28,4 +28,7 @@
 
 ⭐ Jangan lupa follow kalau tertarik!
 
+![NodeJS](https://img.shields.io/badge/-Node.js-green)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
 ![Banner](https://raw.githubusercontent.com/anggimirandi/anggimirandi/main/banner.png)
