@@ -27,3 +27,5 @@
 ---
 
 ⭐ Jangan lupa follow kalau tertarik!
+
+![Banner](https://raw.githubusercontent.com/anggimirandi/anggimirandi/main/banner.png)
